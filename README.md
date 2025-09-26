@@ -1,4 +1,4 @@
-# Tic-Tac-Toe (4x4) - Reinforcement Learning
+# Tic-Tac-Toe  - Reinforcement Learning
 
 This project implements a **Tic-Tac-Toe game** using **Reinforcement Learning (Q-Learning)** with a web interface.  
 You can play against an AI trained with a Q-table. The game runs in your browser using React for the frontend and FastAPI for the backend.
