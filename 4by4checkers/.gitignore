@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# Jupyter
+.ipynb_checkpoints/
